@@ -1,6 +1,3 @@
-[![bundai223's github stats](https://github-readme-stats.vercel.app/api?username=bundai223)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bundai223&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="#">
   <img height="200" align="center" src="./profile/stats.svg" alt="GitHub Stats" />
 </a>
