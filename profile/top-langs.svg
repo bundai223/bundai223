@@ -200,7 +200,7 @@
           data-testid="lang-progress"
           x="246.17999999999998"
           y="0"
-          width="13.81"
+          width="13.82"
           height="8"
           fill="#89e051"
         />
@@ -211,7 +211,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3fb68b" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Common Lisp 37.65%
+        Common Lisp 37.64%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -260,7 +260,7 @@
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 1.52%
+        Shell 1.53%
       </text>
     </g>
   </g></g>
